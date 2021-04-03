@@ -1,4 +1,4 @@
 # LandPrice_Kutchan
-執筆中
+NDBI（正規化都市化指数）算出コード
 
 nbviewer(https://nbviewer.jupyter.org/)
